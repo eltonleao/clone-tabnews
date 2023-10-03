@@ -2,4 +2,4 @@
 
 ## ultima aula
 
-https://curso.dev/web/codespaces-settings-sync
+https://curso.dev/web/configurar-prettier
